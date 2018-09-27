@@ -10,3 +10,6 @@
 	path = conciliacion_bancaria
 	url = git@github.com:rocketgithub/conciliacion_bancaria.git
 	branch = 11.0
+[submodule "losvolcanes"]
+	path = losvolcanes
+	url = git@github.com:rocketgithub/losvolcanes.git
