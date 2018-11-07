@@ -13,3 +13,6 @@
 [submodule "losvolcanes"]
 	path = losvolcanes
 	url = git@github.com:rocketgithub/losvolcanes.git
+[submodule "inmobiliaria"]
+	path = inmobiliaria
+	url = git@github.com:rocketgithub/inmobiliaria.git
