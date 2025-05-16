@@ -16,3 +16,7 @@
 [submodule "inmobiliaria"]
 	path = inmobiliaria
 	url = git@github.com:rocketgithub/inmobiliaria.git
+[submodule "hr_expense_invoice"]
+	path = hr_expense_invoice
+	url = git@github.com:aquih/hr_expense_invoice.git
+	branch = 16.0
